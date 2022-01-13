@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Cookpad App</string>
+    <string name="recipe">Recipe</string>
+
+    <string name="no_internet">Please check your internet connection</string>
+    <string name="network_error">Network error, could get data,please try again!</string>
+    <string name="about_recipe">About Recipe -</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="directions">Directions</string>
+    <string name="contributed_by">Contributed by -</string>
+    <string name="top_rated_recipe">Top Rated Recipe</string>
+</resources>
